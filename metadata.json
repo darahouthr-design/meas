@@ -1,0 +1,6 @@
+{
+  "name": "Cambodia Gold & Market Live Watch",
+  "description": "វេបសាយតាមដានហាងឆេងមាស ក្រាហ្វិកប្រចាំថ្ងៃ តម្លៃប្រេងឥន្ធនៈ អត្រាប្តូរប្រាក់អន្តរជាតិ អត្រាការប្រាក់ ព្យាករណ៍អាកាសធាតុ GPS និងការជូនដំណឹង Telegram Bot",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
